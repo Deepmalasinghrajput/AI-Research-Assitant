@@ -45,5 +45,5 @@ html5lib>=1.1
 
 chromadb
 sentence-transformers
-
+gunicorn
 flask
